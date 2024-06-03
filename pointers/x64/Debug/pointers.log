@@ -1,0 +1,13 @@
+﻿  pointers.cpp
+D:\прога\Школа21\pointers\pointers.cpp(55,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\прога\Школа21\pointers\pointers.cpp(72,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int *"
+D:\прога\Школа21\pointers\pointers.cpp(72,12): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "int *"
+D:\прога\Школа21\pointers\pointers.cpp(74,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int *"
+D:\прога\Школа21\pointers\pointers.cpp(74,12): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "int *"
+D:\прога\Школа21\pointers\pointers.cpp(84,27): warning C4305: инициализация: усечение из "double" в "float"
+D:\прога\Школа21\pointers\pointers.cpp(84,33): warning C4305: инициализация: усечение из "double" в "float"
+D:\прога\Школа21\pointers\pointers.cpp(84,41): warning C4305: инициализация: усечение из "double" в "float"
+D:\прога\Школа21\pointers\pointers.cpp(84,47): warning C4305: инициализация: усечение из "double" в "float"
+D:\прога\Школа21\pointers\pointers.cpp(84,55): warning C4305: инициализация: усечение из "double" в "float"
+D:\прога\Школа21\pointers\pointers.cpp(89,16): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  pointers.vcxproj -> D:\прога\Школа21\pointers\x64\Debug\pointers.exe
